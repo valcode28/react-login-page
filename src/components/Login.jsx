@@ -17,7 +17,6 @@ const Login = () => {
   return (
     <div className='w-full h-screen items-center flex justify-center'>
       <div className='w-[90%] max-w-sm md:max-w-md ig:max-w-md p-5 bg-gray-900 flex-col flex items-center gap-3 rounded-x1 shadow-slate-500 shadow-lg'>
-        <img src="" alt="" className='w-12 md:w-14' />
         <h1 className='text-1g md:text-xl font-semibold'>Welcome Back</h1>
         <p className='text-xs md:text-sm text-gray-500 text-center'>Don't have an account? <span>Sign up</span></p>
 
